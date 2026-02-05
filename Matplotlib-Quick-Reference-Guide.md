@@ -1,4 +1,4 @@
-# Matplotlib Complete Study Guide
+# Matplotlib Quick Reference Guide
 
 > **With Explanations, Code Examples & Quick Reference**
 > Python Data Visualization Fundamentals
