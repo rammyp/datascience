@@ -1,4 +1,4 @@
-# Pandas Complete Study Guide
+# Pandas Quick Reference Guide
 
 > **With Explanations, Code Examples & Quick Reference**
 > Python Data Science Fundamentals
