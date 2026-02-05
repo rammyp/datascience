@@ -1,4 +1,4 @@
-# NumPy Complete Study Guide
+# NumPy Quick Reference Guide
 
 > **With Explanations, Code Examples & Quick Reference**
 > Python Data Science Fundamentals
