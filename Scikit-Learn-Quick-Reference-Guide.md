@@ -1,4 +1,4 @@
-# Scikit-learn Complete Study Guide
+# Scikit-learn Quick Reference Guide
 
 > **With Explanations, Code Examples & Quick Reference**
 > Python Machine Learning Fundamentals
