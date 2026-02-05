@@ -1,4 +1,4 @@
-# Seaborn Complete Study Guide
+# Seaborn Quick Reference Guide
 
 > **With Explanations, Code Examples & Quick Reference**
 > Python Statistical Data Visualization
